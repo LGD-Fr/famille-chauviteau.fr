@@ -1,0 +1,375 @@
+@import "variables";
+@import "markdown";
+@import "utils";
+
+html {
+  font-size: $font-size-base;
+  letter-spacing: 0.02em;
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  min-width: $body-min-width;
+  overflow-x: hidden;
+}
+
+body {
+  color: $body-font-color;
+  background: $body-background;
+
+  font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-weight: $body-font-weight;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  box-sizing: border-box;
+  * {
+    box-sizing: inherit;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: $title-font-weight;
+}
+
+a {
+  text-decoration: none;
+  color: $color-link;
+
+  &:visited {
+    color: $color-visited-link;
+  }
+}
+
+img {
+  vertical-align: middle;
+}
+
+aside nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  li {
+    margin: 1em 0;
+  }
+
+  a {
+    display: block;
+  }
+
+  a:hover {
+    opacity: .5;
+  }
+
+  ul {
+    padding-left: $padding-16;
+  }
+}
+
+ul.pagination {
+  display: flex;
+  justify-content: center;
+
+  .page-item a {
+    padding: $padding-16;
+  }
+}
+
+.container {
+  min-width: $container-min-width;
+  max-width: $container-max-width;
+  margin: 0 auto;
+}
+
+.book-brand {
+  margin-top: 0;
+}
+
+.book-menu {
+  flex: 0 0 $menu-width;
+  font-size: $font-size-14;
+
+  nav {
+    width: $menu-width;
+    padding: $padding-16;
+
+    @include fixed;
+  }
+
+  @include dark-links;
+}
+
+.book-page {
+  min-width: $body-min-width;
+  padding: $padding-16;
+}
+
+.book-header {
+  margin-bottom: $padding-16;
+  display: none;
+}
+
+.book-toc {
+  flex: 0 0 $toc-width;
+  font-size: $font-size-12;
+
+  nav {
+    width: $toc-width;
+    padding: $padding-16;
+
+    @include fixed;
+  }
+
+  nav > ul > li {
+    margin: 0;
+  }
+}
+
+.book-git-footer {
+  display: flex;
+  margin-top: $padding-16;
+  font-size: $font-size-14;
+  align-items: baseline;
+
+  img {
+    width: $font-size-14;
+    vertical-align: bottom;
+  }
+}
+
+.book-posts {
+  min-width: $body-min-width;
+  max-width: $sm-breakpoint;
+  padding: $padding-16;
+
+  article {
+    padding-bottom: $padding-16;
+  }
+}
+
+// Responsive styles
+aside nav,
+.book-page,
+.markdown {
+  transition: 0.2s ease-in-out;
+  transition-property: transform, margin-left, opacity;
+  will-change: transform, margin-left;
+}
+
+@media screen and (max-width: $md-breakpoint) {
+  .book-toc {
+    display: none;
+  }
+}
+
+@media screen and (max-width: $sm-breakpoint) {
+  .book-menu {
+    margin-left: -$menu-width;
+  }
+
+  .book-header {
+    display: flex;
+  }
+
+  #menu-control:checked + main {
+    .book-menu nav,
+    .book-page {
+      transform: translateX($menu-width);
+    }
+
+    .book-header label {
+      transform: rotate(90deg);
+    }
+
+    .markdown {
+      opacity: 0.25;
+    }
+  }
+}
+
+// Extra space for big screens
+@media screen and (min-width: $container-max-width) {
+  .book-page,
+  .book-menu nav,
+  .book-toc nav {
+    padding: $padding-16 * 2 $padding-16;
+  }
+}
+
+figure.fig {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding: 1em;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 0.1em;
+  border-color: $gray-500;
+  background-color: $fig-back-color;
+  width: fit-content;
+  width: -moz-fit-content;
+
+  img {
+    max-width: 100%;
+  }
+
+  figcaption > h4 {
+    margin-top: 1em;
+    margin-bottom: 0px;  
+  }
+}
+
+.gal {
+  @extend figure.fig;
+  max-width: 45%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+$right-margin: 3em;
+$text-indent: 2em;
+
+
+
+div.livre {
+  text-indent: $text-indent;
+  h1, h2, h3, h4, h5, h6 {
+    text-indent: 0;
+    text-align: center;
+  }
+  li, figure {
+    text-indent: 0;
+  }
+  p {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+  }
+  .numero-lettre {
+    text-align: left;
+    font-size: smaller;
+    color: gray;
+    float: left;
+  }
+  hr.lettres {
+    width: 7em;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    color: black;
+  }
+  .date-lettre {
+    font-size: smaller;
+    text-align: right;
+    margin-right: $right-margin;
+  }
+  div.note-lettres {
+    font-style: italic;
+  }
+  p.note-lettres {
+    font-size: smaller;
+  }
+  header {
+    text-indent: 0em;
+  }
+}
+
+div.inner-lettre {
+  @extend div.livre;
+  p.date-lettre {
+    margin-right: $right-margin;
+  }
+  p.sign {
+    text-align: right;
+    margin-right: $right-margin;
+  }
+
+  .titre-lettre {
+    text-align: center;
+  }
+  
+  
+
+  
+}
+
+p.rimes {
+  text-indent: 0;
+  margin-left: $text-indent;
+}
+
+p.petites-rimes{
+  @extend p.rimes;
+  font-size: smaller;
+  margin-left: $text-indent * 2; 
+
+}
+
+.big-margin {
+  margin-top: 10em;
+  margin-bottom: 10em;
+}
+
+.centered {
+  text-align: center;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.intense > img {
+	cursor: url('plus_cursor.png') 25 25, auto;
+}
+
+.last-modif {
+  margin-top: 0.5em;
+  font-size: 9pt;
+  color: $gray-600;
+  font-style: italic;
+}
+
+.book-email-footer {
+  margin-top: 3em;
+  font-style: italic;
+  color: $gray-700;
+  text-align: center;
+  font-size: 10pt;
+  a {
+    color: $gray-700;
+  }
+}
+
+.hommage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  padding: 1em;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 0.1em;
+  border-color: $gray-500;
+  background-color: $fig-back-color;
+  font-style: italic;
+
+  .hommage-photo {
+    flex: 2 15em;
+    padding: 0.5em;
+  }
+  .hommage-texte {
+    flex: 1 20em;
+    padding: 0.5em;
+    .hommage-signature {
+      text-align: right;
+      padding-right: 2em;
+    }
+  }
+}
+

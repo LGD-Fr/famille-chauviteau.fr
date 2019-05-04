@@ -1,0 +1,11 @@
+<ul>
+{{ with .Site.GetPage "/" }}
+  {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}" {{ if eq $.Permalink .Permalink }} class="active"{{ end }}>
+        {{ template "title" . }}
+      </a>
+    </li>
+  {{ end }}
+{{ end }}
+</ul>

@@ -1,0 +1,21 @@
+<div class="lettre">
+{{ if not (isset .Params "nosep") }}
+<hr class="lettres"/>
+{{ end }}
+{{ if (isset .Params "n") }}
+    {{ if (isset .Params "a") }}
+<h3 class="titre-lettre"><span class="numero-lettre">N°&nbsp;{{ index .Params "n" }} </span>{{ index .Params "a" | safeHTML }}</h3>
+    {{ else }}
+<h3 class="numero-lettre">N°&nbsp;{{ index .Params "n" }}</h3>
+    {{ end }}
+{{  else }}
+    {{ if (isset .Params "a") }}
+<h3 class="titre-lettre">{{ index .Params "a" | safeHTML }}</h3>
+    {{ end }}
+{{ end }}
+{{ if (isset .Params "l") }}
+<p class="date-lettre">{{ index .Params "l" | safeHTML }}</p>
+{{ end }}
+<div class="inner-lettre">
+{{ .Inner | markdownify }}
+</div></div>

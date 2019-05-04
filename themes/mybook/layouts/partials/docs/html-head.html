@@ -1,0 +1,10 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{- template "title" . }} | {{ .Site.Title -}}</title>
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:500" rel="stylesheet">
+<link rel="stylesheet" href="{{ "normalize.min.css" | absURL }}">
+<script src="{{ "intense.min.js" | absURL }}"></script>
+{{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">

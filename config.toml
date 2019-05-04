@@ -1,0 +1,29 @@
+baseURL = "https://famille-chauviteau.site/"
+languageCode = "fr-FR"
+title = "Histoire de la famille Chauviteau"
+theme = "mybook"
+
+canonifyurls = "true"
+enableGitInfo = "true"
+
+# Book configuration
+disablePathToLower = true
+
+[params]
+# show or hide table of contents for page
+BookShowToC = false
+
+# Set bundle to render side menu
+# if not specified file structure and weights will be used
+#BookMenuBundle = "/menu"
+
+# specify section of content to render as menu
+# if bookMenuBundle is not set, 'docs' is value by default
+# BookSection = ""
+
+# Enable "Edit this page" links for 'doc' page type.
+# Disabled by default. Uncomment to enable.
+BookEditURL = 'https://github.com/LGD-Fr/famille-chauviteau.site/edit/master/content/'
+
+ContactEMailFile = "/img/courriel.png"
+ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « site »"
