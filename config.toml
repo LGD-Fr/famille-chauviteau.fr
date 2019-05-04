@@ -5,6 +5,7 @@ theme = "mybook"
 
 canonifyurls = "true"
 enableGitInfo = "true"
+publishDir = "docs"
 
 # Book configuration
 disablePathToLower = true
