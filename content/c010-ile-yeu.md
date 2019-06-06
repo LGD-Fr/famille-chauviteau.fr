@@ -13,7 +13,7 @@ Cette île de l’Atlantique, située à trois kilomètres au large de la Vendé
 Parmi les lieux-dits de l’île, on trouve un « Ker-Chauviteau », avec quelques ruines là où devait autrefois se dresser la demeure familiale. Le terme « Ker », contrairement a ce que l’on pourrait penser, n’est pas d’origine bretonne, mais poitevine. On rencontre aussi des « Chauvineau », d’où un Ker-Chauvineau.
 
 
-{{< figure class="fig" src="/img/stsauvyeu2.jpg" title="Église St-Sauveur de l’Île d’Yeu" >}}
+{{< figure class="fig" src="/img/eglise st sauveur ile yeu.jpg" title="Église St-Sauveur de l’Île d’Yeu" >}}
 
 
 Sources :
