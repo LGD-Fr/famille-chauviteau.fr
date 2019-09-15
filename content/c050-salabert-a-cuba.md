@@ -31,6 +31,11 @@ Peu après le mariage de Salabert, M. Chauviteau vint lui rendre visite et faire
 
 Salabert eut le chagrin de subir le décès de son jeune frère Châlon en 1804 (fièvre jaune ?).
 
+<div class="centered">
+{{<figure class="fig intense" src="/img/physionotrace_chalon_salabert.png" alt=" Salabert et son frère Châlon" title="Salabert et son frère Hilaire CHAUVITEAU, dit Châlon (1780-1804)">}}
+</div>
+
+
 Il acheta peu à peu des plantations de café, et finit par se trouver à la tête de quatre plantations (ou habitations) : la Serafina, la Carlotta, la Bristol et la Moka, employant environ 500 esclaves, consacrées au café…
 
 En 1809, l’occupation par Napoléon de l’Espagne entraîna l’expulsion des français de Cuba. Salabert se réfugia avec sa famille aux États-Unis (Bristol). Cependant, il avait confié ses intérêts à son beau frère HERNANDEZ. Il put revenir à Cuba en 1812 et reprendre toutes ses activités jusqu’en 1821.
@@ -41,14 +46,10 @@ En 1821, sa santé se dégradant depuis quelques années de plus en plus, il dé
 
 Il partit pour le Havre avec toute sa famille où il retrouva son fils Jean qu’il n’avait pas vu depuis dix ans ainsi que son fils Ferdinand, venant de New-York.
 
-<div class="centered">
-{{<figure class="gal" src="/img/cathedraleLH2.jpg" alt="Cathédrale de La Havane" title="Cathédrale de La Havane">}}
-{{<figure class="gal" src="/img/CHALONC2.jpg" alt="Châlon, frère de Salabert" title="Hilaire CHAUVITEAU, dit Châlon (1780-1804)">}}
-</div>
 
 <div class="centered">
-{{<figure class="gal intense" src="/img/salabert-hr.jpeg" alt="Salabert jeune" title="Salabert CHAUVITEAU (1775-1823)">}}
-{{<figure class="gal" src="/img/solangeguenet.jpg" alt="Antoine GUENET" title="Antoine GUENET, dit Solange (1779-1816)">}}
+{{<figure class="gal" src="/img/Mamita_jeune.jpg" alt="Serafina jeune" title="Serafina ALOY jeune, épouse CHAUVITEAU (1786-1880)">}}
+{{<figure class="gal" src="/img/salabert-hr.jpeg" alt="Salabert jeune" title="Salabert CHAUVITEAU (1775-1823)">}}
 </div>
 
 Sources :

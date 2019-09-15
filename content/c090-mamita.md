@@ -27,6 +27,8 @@ Ferdinand resta célibataire ; il eut pendant un moment une charge d’agent de
 
 Francis s’installa en 1840 pour faire de l’agriculture à Vallières les Grandes, près d‘Amboise, dans une belle propriété alors en pleine campagne, la Thomasserie. La famille de Séraphine HERMET venait souvent y séjourner, amenant Mamita avec eux. Il y resta jusqu’en 1850, et s’installa ensuite au Mans en 1860.
 
+{{<figure class="fig intense" src="/img/Francis.jpg" width="400px" alt="Francis Chauviteau" title="Francis Chauviteau (1811-1891)">}}
+
 {{<figure class="fig" src="/img/THOMASSERIE2.jpg" alt="La Thomasserie" title="La Thomasserie">}}
 
 Les fils, en particulier les aînés, étaient des originaux, ayant été très marqués par leur éducation américaine. Jean qui avait été banquier participa à la Ruée vers l’Or en Californie en 1848, emmenant sa femme à travers l’isthme de Panama. Ferdinand était venu le rejoindre, ainsi que son neveu, Hector, fils de Jean. Leurs aventures aux États-Unis furent nombreuses, mais ils n’y firent pas vraiment fortune.
