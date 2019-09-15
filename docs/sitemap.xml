@@ -114,7 +114,6 @@
   
   <url>
     <loc>https://famille-chauviteau.site/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -124,7 +123,6 @@
   
   <url>
     <loc>https://famille-chauviteau.site/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

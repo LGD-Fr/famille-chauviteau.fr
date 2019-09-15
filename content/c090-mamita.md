@@ -51,7 +51,7 @@ Hélas, des deuils commencèrent à se produire. Chez les enfants d’abord ! P
 
 Après son retour à Paris en 1871, Mamita s’installa rue d’Anjou. C’est là qu’elle apprit la naissance dès 1874, du premier de ses arrière-arrière petits enfants, petits fils de Sophie, fille de Jean et qu’elle eut la joie d’apprendre la naissance de son soixante dix huitième arrière petit enfant. De 1870 à son décès, elle fut le centre de sa famille dont la plupart des membres habitaient au voisinage, en particulier sa fille Séraphine, veuve de Xavier HERMET, ses fils Ferdinand, toujours célibataire, Jean, Thomas, Philippe, qui devaient tous lui survivre et de nombreux petits enfants.
 
-{{<figure class="fig" width="300px" src="/img/mamita-85-ans-hr.jpeg" alt="Mamita à 85 ans" title="Mamita à 85 ans">}}
+{{<figure class="fig" width="500px" src="/img/mamita-85-ans-hr.jpeg" alt="Mamita à 85 ans" title="Mamita à 85 ans">}}
 
 Elle s’éteignit tranquillement en 1880, à 94 ans, laissant derrière elle une famille très nombreuse, qui même actuellement continue à vénérer le souvenir de « Mamita » ou « Bonne Maman ».
 
