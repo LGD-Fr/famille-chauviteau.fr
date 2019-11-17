@@ -4,7 +4,7 @@
 {{ if (and .Site.Params.RedirectToCanonical (ne .Site.BaseURL .Site.Params.CanonicalBaseURL)) }}
 <meta http-equiv="refresh" content="0; URL={{ .Site.Params.CanonicalBaseURL }}{{ .RelPermalink }}">
 {{ end }}
- <script>{{ .Site.BaseURL }} ==? {{ .Site.Params.CanonicalBaseURL }}</script>
+<!-- <script>{{ .Site.BaseURL }} ==? {{ .Site.Params.CanonicalBaseURL }}</script> -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:500" rel="stylesheet">
