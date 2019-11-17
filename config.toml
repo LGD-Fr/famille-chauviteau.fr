@@ -1,9 +1,9 @@
-baseURL = "https://famille-chauviteau.site"
+baseURL = "https://famille-chauviteau.fr"
 languageCode = "fr-FR"
 title = "Histoire de la famille Chauviteau"
 theme = "mybook"
 
-canonifyurls = false
+canonifyurls = true
 enableGitInfo = true
 publishDir = "docs"
 
@@ -23,9 +23,9 @@ BookShowToC = false
 # BookSection = ""
 
 # BookSourceURL = 'https://github.com/LGD-Fr/famille-chauviteau.site/blob/master/content/'
-BookGitURL = 'https://github.com/LGD-Fr/famille-chauviteau.site'
+BookGitURL = 'https://github.com/LGD-Fr/famille-chauviteau.fr'
 
 ContactEMailFile = "/img/courriel.png"
 ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « site »"
 RedirectToCanonical = false
-CanonicalBaseURL = "https://famille-chauviteau.site"
+CanonicalBaseURL = "https://famille-chauviteau.fr"
