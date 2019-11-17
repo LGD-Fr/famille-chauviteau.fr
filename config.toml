@@ -1,10 +1,10 @@
-baseURL = "https://famille-chauviteau.site/"
+baseURL = "https://famille-chauviteau.site"
 languageCode = "fr-FR"
 title = "Histoire de la famille Chauviteau"
 theme = "mybook"
 
-canonifyurls = "true"
-enableGitInfo = "true"
+canonifyurls = false
+enableGitInfo = true
 publishDir = "docs"
 
 # Book configuration
@@ -22,9 +22,10 @@ BookShowToC = false
 # if bookMenuBundle is not set, 'docs' is value by default
 # BookSection = ""
 
-# Enable "Edit this page" links for 'doc' page type.
-# Disabled by default. Uncomment to enable.
-BookEditURL = 'https://github.com/LGD-Fr/famille-chauviteau.site/edit/master/content/'
+# BookSourceURL = 'https://github.com/LGD-Fr/famille-chauviteau.site/blob/master/content/'
+BookGitURL = 'https://github.com/LGD-Fr/famille-chauviteau.site'
 
 ContactEMailFile = "/img/courriel.png"
 ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « site »"
+RedirectToCanonical = false
+CanonicalBaseURL = "https://famille-chauviteau.site"

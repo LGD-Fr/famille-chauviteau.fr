@@ -1,8 +1,8 @@
-{{ with .Site.Params.BookEditURL }}
+{{ with .Site.Params.BookSourceURL }}
 <div class="align-center book-git-footer justify-end">
   <div>
     <a href="{{ . }}{{ path.Join $.File.Path }}" target="_blank" rel="noopener">
-      <img src="{{ "svg/code-fork.svg" | absURL }}" /> Modifier cette page
+      <img src="{{ "svg/code-fork.svg" | absURL }}" /> Code source
     </a>
   </div>
 </div>
