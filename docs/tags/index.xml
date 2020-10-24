@@ -5,10 +5,6 @@
     <link>https://famille-chauviteau.fr/tags/</link>
     <description>Recent content in Tags on Histoire de la famille Chauviteau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    
-	<atom:link href="https://famille-chauviteau.fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-FR</language><atom:link href="https://famille-chauviteau.fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
