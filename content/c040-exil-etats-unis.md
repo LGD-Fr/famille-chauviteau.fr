@@ -23,7 +23,7 @@ Les parents étaient restés à Providence, y vivotant au milieu de problèmes f
 
 En 1802, le traité d’Amiens entre la France et l’Angleterre entraîna la fin de la guerre et la récupération par la France des Antilles, qui avaient été occupées par l’Angleterre. M. Chauviteau s’y rendit, se faisant rayer de la liste des émigrés, y vendit quelques biens et y fit quelques opérations commerciales. Il eut le malheur d’y apprendre le décès tragique de son fils Louis, à St Pierre en Martinique, tué en duel, provoqué par la mauvaise conduite de sa femme.
 
-{{<figure class="fig" src="/img/chauviteaulfp2.jpg" alt="Faire-part de décès." title="Faire-part de décès de Louis CHAUVITEAU (1773-1802)">}}
+{{<figure class="fig" src="/img/Affiche convoi funéraire Louis Chauviteau 1802 01 17 FR.png" alt="Faire-part de décès." title="Faire-part de décès de Louis CHAUVITEAU (1773-1802)">}}
 
 Entre temps Salabert avait épousé une Espagnole à la Havane, Serafina ALOY, belle-sœur d’HERNANDEZ. Un autre projet de mariage se concrétise entre Sophie CHAUVITEAU et son cousin Antoine GUENET. M. CHAUVITEAU repart pour les États-Unis, emmenant avec lui M<sup>me</sup> Veuve GUENET, sœur de M<sup>me</sup> CHAUVITEAU et sa fille M<sup>me</sup> VALLÉE. Ces dernières resteront en rade quelque temps à Antigua, autre Antille anglaise, tandis que M. CHAUVITEAU rejoint New-York.
 
