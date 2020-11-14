@@ -51,5 +51,6 @@ et de sa femme Octavie CARRÈRE, de plusieurs MEIGNAN, ailleurs celle de plusieu
 et CHARVERIAT, descendants des LARSONNIER.
 
 Liens :
+
 - Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html) ;
 - [Inventaire de la tombe au Père Lachaise](/docs/inventaire_tombe_lachaise_2000-10-4.pdf).
