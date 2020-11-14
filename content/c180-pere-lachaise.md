@@ -50,4 +50,6 @@ Dans le voisinage, la tombe de Thomas CHAUVITEAU (1813-1887), autre fils de Sala
 et de sa femme Octavie CARRÈRE, de plusieurs MEIGNAN, ailleurs celle de plusieurs DUBOIS
 et CHARVERIAT, descendants des LARSONNIER.
 
-Lien : Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html).
+Liens :
+- Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html) ;
+- [Inventaire de la tombe au Père Lachaise](/docs/inventaire_tombe_lachaise_2000-10-4.pdf).

@@ -32,7 +32,7 @@ La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalo
 
 - [Lettres Chauviteau complétées, texte intégral des lettres N°120 à 180, 1807-1817](/docs/Lettres_Chauviteau_complement.pdf) ;
 
-- [Une affaire difficile : le cas du Jeune Hernandez, dit Pancho. (texte d’Emmanuel Boëlle et lettres entre 1810 et 1813)](/docs/Une affaire difficile — jeune Hernandez, dit Pancho.pdf) ;
+- [Une affaire difficile : le cas du Jeune Hernandez, dit Pancho. (Texte d’Emmanuel Boëlle et lettres entre 1810 et 1813.)](/docs/boelle_affaire_difficile_hernandez.pdf) ;
 
 - [Ferdinand Pierre Chauviteau / photographié par Emile Tourtin, BnF Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8450924z).
 
