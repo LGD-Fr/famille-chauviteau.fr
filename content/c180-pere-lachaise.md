@@ -48,7 +48,7 @@ CHAUVITEAU.
 
 Dans le voisinage, la tombe de Thomas CHAUVITEAU (1813-1887), autre fils de Salabert,
 et de sa femme Octavie CARRÈRE, de plusieurs MEIGNAN, ailleurs celle de plusieurs DUBOIS
-et CHARVERIAT, descendants des LARSONNIER.
+et CHARVERIAT, descendants des LARSONNIER.
 
 Liens :
 - Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html) ;
