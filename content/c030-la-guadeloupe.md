@@ -22,7 +22,7 @@ Ils eurent quatre enfants, tous nés à Basse-Terre, paroisse du Mont Carmel :
 - Sophie, appelée « Toute » (°1777) ;
 - Hilaire, appelé « Châlon » (°1782).
 
-{{<figure class="gal" src="/img/famchaubio2.bmp" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
+{{<figure class="fig intense" src="/img/famchaubio2.bmp" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
 
 Vers 1794, des troubles révolutionnaires éclatèrent à la Guadeloupe. Les Anglais occupèrent l’île, mais en furent chassés par Victor Hugues, à la tête de troupes républicaines provenant de France. Des représailles furent exercées sur les Royalistes français ayant sympathisé avec les Anglais (guillotine, fusillades). Joseph, sa femme et ses enfants (à l’exception de Louis qui se transporta à la Martinique), avaient fui à temps, et émigrèrent à Providence, petite ville des États-Unis, aux environs de Boston, capitale de l’État du Rhode Island, et dont le port « Bristol », était en contact fréquent avec les Antilles. Ils furent officiellement considérés comme « émigrés ».
 
