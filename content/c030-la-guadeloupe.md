@@ -10,7 +10,10 @@ type: docs
 
 Joseph CHAUVITEAU épousa en 1773 Sophie BIOCHE (°1752 à Basse-Terre, paroisse du Mont Carmel), d’une ancienne famille de l’île. Il possédait avec sa femme une cafeirie (estimée 34.000 livres). Il était par ailleurs officier des milices de la Basse-Terre.
 
-{{<figure class="fig intense" src="/img/joseph-hr.jpeg" alt="Jospeh en officier des Milices" title="Joseph CHAUVITEAU jeune (1746-1816), Officier des Milices">}}
+<div class="centered">
+{{<figure class="gal" src="/img/joseph-hr.jpeg" alt="Jospeh en officier des Milices" title="Joseph CHAUVITEAU jeune (1746-1816), Officier des Milices">}}
+{{<figure class="gal intense" src="/img/copie_acte_mariage_Chauviteau_Bioche.png" alt="Copie de l’acte de mariage de Joseph Chauviteau et Sophie Bioche" title="Copie de l’acte de mariage de Joseph Chauviteau et Sophie Bioche">}}
+</div>
 
 Ils eurent quatre enfants, tous nés à Basse-Terre, paroisse du Mont Carmel :
 
@@ -19,7 +22,7 @@ Ils eurent quatre enfants, tous nés à Basse-Terre, paroisse du Mont Carmel :
 - Sophie, appelée « Toute » (°1777) ;
 - Hilaire, appelé « Châlon » (°1782).
 
-{{<figure class="fig intense" src="/img/famchaubio2.bmp" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
+{{<figure class="gal" src="/img/famchaubio2.bmp" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
 
 Vers 1794, des troubles révolutionnaires éclatèrent à la Guadeloupe. Les Anglais occupèrent l’île, mais en furent chassés par Victor Hugues, à la tête de troupes républicaines provenant de France. Des représailles furent exercées sur les Royalistes français ayant sympathisé avec les Anglais (guillotine, fusillades). Joseph, sa femme et ses enfants (à l’exception de Louis qui se transporta à la Martinique), avaient fui à temps, et émigrèrent à Providence, petite ville des États-Unis, aux environs de Boston, capitale de l’État du Rhode Island, et dont le port « Bristol », était en contact fréquent avec les Antilles. Ils furent officiellement considérés comme « émigrés ».
 

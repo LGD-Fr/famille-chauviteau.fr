@@ -29,3 +29,9 @@ ContactEMailFile = "/img/courriel.png"
 ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « fr »"
 RedirectToCanonical = false
 CanonicalBaseURL = "https://famille-chauviteau.fr"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
