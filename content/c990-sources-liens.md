@@ -36,6 +36,16 @@ La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalo
 
 - [Ferdinand Pierre Chauviteau / photographié par Emile Tourtin, BnF Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8450924z).
 
+## Autres documents
+
+- [Déclarations de mutations, décès de Francis Chauviteau (1891), série 3Q](/docs/Déclaration mutation décès Francis Chauviteau 1891 série 3Q.zip)
+
+- [Contrat de mariage Fouqueray-Chauviteau (1877-11-22), Me Berthault](/docs/contrat de mariage Fouqueray Chauviteau 1877 11 22 Me Berthault.zip)
+
+- [Acte notoriété du décès de Francis Chauviteau (1892-03-08), Me Berthault](/docs/Acte notoriété décès Francis Chauviteau 1892 03 08 Me Berthault.zip)
+
+- [Coupures de presse sur l’affaire Hector Chauviteau](/docs/Affaire Hector Chauviteau.pdf)
+
 ## Fonds Chauviteau aux Archives départementales de la Gironde
 
 - [Lien vers la présentation du fonds Chauviteau sur le site des Archives départementales de la Gironde (numérisation à la demande)](https://archives.gironde.fr/archive/fonds/FRAD033_IR_113J/view:fonds/n:3)
