@@ -5,6 +5,8 @@ type: docs
 
 # Histoire de la famille <span style="font-variant: small-caps">Chauviteau</span>
 
+[**Dernière actualité: _Une tombe sauvegardée_** (20 novembre 2021)]({{<ref "/c005-actualites.md">}})
+
 {{<figure class="fig intense" src="/img/famchauvaloy2.bmp" alt="Famille Chauviteau-Aloy" caption="Ce tableau représente la famille de Salabert CHAUVITEAU (avec sa femme Serafina et une partie de leurs 11 enfants) à La Havane (Cuba), vers 1817, où ils étaient planteurs de café.">}}
 
 Cette famille était originaire de [l’Île d’Yeu]({{<ref "/c010-ile-yeu.md">}}), en Vendée peuplée essentiellement de marins. Au XVIII<sup>ème</sup> siècle, deux frères CHAUVITEAU partirent pour les Antilles. L’un d’eux eut un fils Joseph, né en 1746 à [la Dominique]({{<ref "/c020-la-dominique.md">}}), une île des Antilles, qui épousa à la Guadeloupe Sophie BIOCHE, dont la famille habitait depuis près de 200 ans cette île.

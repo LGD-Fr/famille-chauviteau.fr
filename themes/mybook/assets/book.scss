@@ -227,8 +227,13 @@ figure.fig {
   }
 }
 
+.small-fig {
+  @extend figure, .fig;
+  max-width: 30%;
+}
+
 .gal {
-  @extend figure.fig;
+  @extend figure, .fig;
   max-width: 45%;
   display: inline-block;
   vertical-align: top;
@@ -281,7 +286,7 @@ div.livre {
 }
 
 div.inner-lettre {
-  @extend div.livre;
+  @extend div, .livre;
   p.date-lettre {
     margin-right: $right-margin;
   }
@@ -305,7 +310,7 @@ p.rimes {
 }
 
 p.petites-rimes{
-  @extend p.rimes;
+  @extend p, .rimes;
   font-size: smaller;
   margin-left: $text-indent * 2; 
 

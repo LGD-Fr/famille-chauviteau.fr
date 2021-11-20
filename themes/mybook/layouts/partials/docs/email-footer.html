@@ -4,6 +4,6 @@
         (courriel : <img style="height: 1.3em; padding-bottom: 0.1em" src="{{ .Site.Params.ContactEMailFile }}" alt="{{ .Site.Params.ContactEMailAlt }}" />).
     </div>
     <div class="last-modif">
-        Dernière modification de la page : {{.Lastmod}} (révision {{.GitInfo.AbbreviatedHash}}). <a href="{{ .Site.Params.BookGitURL }}">Code source.</a>
+        Dernière modification de la page : {{.Lastmod}} {{ if .GitInfo }}(révision {{.GitInfo.AbbreviatedHash}}){{ end }}. <a href="{{ .Site.Params.BookGitURL }}">Code source.</a>
     </div>
 </div>
