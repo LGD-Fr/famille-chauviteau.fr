@@ -1,128 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://famille-chauviteau.fr/c005-actualites/</loc>
+    <lastmod>2021-11-20T10:51:10+01:00</lastmod>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c010-ile-yeu/</loc>
     <lastmod>2019-06-06T19:46:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c020-la-dominique/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c030-la-guadeloupe/</loc>
     <lastmod>2020-11-14T16:55:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c040-exil-etats-unis/</loc>
     <lastmod>2020-10-24T14:19:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c050-salabert-a-cuba/</loc>
     <lastmod>2019-09-15T15:31:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c060-retour-france-parents/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c070-etats-unis/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c080-salabert-france/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c090-mamita/</loc>
     <lastmod>2019-09-15T15:31:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c095-adresses-a-paris/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c100-poey/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c110-famille-aloy/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c120-famille-bioche/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c130-galerie-portraits/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c135-article-ghc-lettres-famille/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c140-lettres-famille-1897/</loc>
     <lastmod>2019-06-09T21:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c160-souvenirs-mamita/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c165-article-ghc-hectares-floride/</loc>
     <lastmod>2019-06-09T21:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c180-pere-lachaise/</loc>
-    <lastmod>2020-11-14T17:39:40+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-20T10:51:10+01:00</lastmod>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c900-genealogie/</loc>
-    <lastmod>2020-11-14T17:35:33+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-20T10:51:10+01:00</lastmod>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c980-anecdotes-familiales/</loc>
     <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/c990-sources-liens/</loc>
     <lastmod>2020-11-14T16:08:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://famille-chauviteau.fr/</loc>
-    <lastmod>2019-05-04T12:26:14+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-20T10:51:10+01:00</lastmod>
+  </url><url>
     <loc>https://famille-chauviteau.fr/tags/</loc>
   </url>
-  
 </urlset>
