@@ -228,8 +228,6 @@ pour affronter les tribunaux américains, et  s’attendre  à
 ce que , même en  cas  de  succès,  les  frais  du  procès
 entament sérieusement le gâteau à se partager.
 
-<small>
 __\* Note de l’éditeur du site web : la note de lecture d’Emmanuel Boëlle, publiée en 2006, sur l’ouvrage de C.S Monaco *Moses Levy of Florida, Jewish utopian and Antebellum reformer* (cf. [Sources et liens]({{<ref "c990-sources-liens.md">}})) précise que la dette a bien été remboursée : *« Ce n’est que vers 1849 que la valeur de la transaction fut reconnue et qu’il put enfin rembourser sa dette vis-à-vis de Mme Chauviteau, qui n’avait jamais perdu confiance en lui. »*__
-</small>
 
 Lien : [Association « Généalogie et Histoire de la Caraïbe »](http://www.ghcaraibe.org/)

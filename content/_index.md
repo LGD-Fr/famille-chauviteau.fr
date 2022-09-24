@@ -5,7 +5,7 @@ type: docs
 
 # Histoire de la famille <span style="font-variant: small-caps">Chauviteau</span>
 
-[**Dernière actualité: _Une tombe sauvegardée_** (20 novembre 2021)]({{<ref "/c005-actualites.md">}})
+[*Dernière actualité :* **Master 2 sur la correspondance Chauviteau** (24 septembre 2022)]({{<ref "/c005-actualites.md">}})
 
 {{<figure class="fig intense" src="/img/famchauvaloy2.bmp" alt="Famille Chauviteau-Aloy" caption="Ce tableau représente la famille de Salabert CHAUVITEAU (avec sa femme Serafina et une partie de leurs 11 enfants) à La Havane (Cuba), vers 1817, où ils étaient planteurs de café.">}}
 

@@ -6,6 +6,31 @@ type: docs
 
 # Actualités
 
+## Master 2 sur la correspondance Chauviteau
+
+*24 septembre 2022*
+
+
+<img style="float: left; margin-right: 1em" width="30%" src="/img/actu/2022-09-24/Tramut.jpg" alt="Tramut.jpg" title="Nora TRAMUT">
+
+Nora Tramut est originaire de Besançon, puis son histoire personnelle la conduit à Avignon et enfin à Bordeaux où elle suit et obtient sa licence d’Histoire, spécialité « Civilisation et Patrimoine ».
+
+À la suite du décès de son père, Nora Tramut s’intéresse à la généalogie. C’est donc tout naturellement qu’elle n’hésite pas à choisir un sujet appuyé sur les correspondances familiales Chauviteau quand le professeur Cadilhon lui propose.
+
+En effet, au début des années 2010, Emmanuel Boëlle décide de faire le dépôt de ses archives familiales afin d’assurer leur conservation et de pouvoir les rendre accessibles à tout public que cela pourrait intéresser. Il choisit les Archives Départementales de Gironde, à la fois car il s’agit du département de retour en France de la famille Chauviteau, et également, car les AD 33 ont des collections très riches de leurs échanges avec les Antilles, étant donné l’activité portuaire. <img style="float: right; margin-left: 1em" width="30%" src="/img/actu/2022-09-24/Cadilhon.jpg" alt="Cadilhon.jpg" title="Professeur CADILHON"> En 2019, je signale ce fonds d’archives et sa riche correspondance au musée de La Poste qui transmet l’information à la commission scientifique pour l’histoire de La Poste, dont fait partie le professeur Cadilhon. Docteur en histoire (Paris IV, 1988), le professeur Cadilhon enseigne à l’université Bordeaux Montaigne, il est également membre de la Commission scientifique pour l’histoire de La Poste. Il est l’auteur de nombreuses publications et articles sur des sujets assez variés. Nous avons un échange et il promet de proposer à des étudiants de faire leurs mémoires sur ce fonds.
+
+C’est donc Nora qui sera la première étudiante à travailler sur ce fonds. À ce titre, elle est la première personne qui ne soit pas de la famille à passer autant de temps sur cette correspondance.
+
+C’est un gros travail de se repérer parmi les 24 cartons d’archives et les presque 2,5 mètres de rayonnage que constitue ce fonds. Bien que très bien classé et légendé (grâce au travail d’Emmanuel Boëlle), Nora Tramut continue ce travail de classement, d’indexation, … mais aussi en complétant, notamment par les testaments.
+
+Merci à elle pour ce travail sur notre famille et sur la mise en valeur de ce fonds d’archives si chère à Emmanuel Boëlle et remerciements également au professeur Cadilhon de nous faire profiter de son expérience et de proposer ces sujets à des étudiants.       
+
+*PS* : Nora Tramut a soutenu avec succès le 30 juin 2022 son mémoire de Master 2. Toutes nos félicitations !
+
+*Jérôme MOREAU*
+
+<hr/>
+
 ## Une tombe sauvegardée
 
 *20 novembre 2021*

@@ -997,7 +997,7 @@ Mon cher fils, mon cher ami, il y a deux heures que nous avons reçu vos lettres
 {{</l>}}
 
 {{<l n="125" a="M<sup>me</sup> CHAUVITEAU À SON FILS SALABERT" l="Bordeaux, 31 mars 1812.">}}
-I1 y a trois jours, mon cher Salabert, que nous avons reçu votre lettre du 15 octobre. Il est inutile de vous dire tout le plaisir que nous avons éprouvé d’apprendre de vos nouvelles, après en avoir été privés pendant sept mois.
+Il y a trois jours, mon cher Salabert, que nous avons reçu votre lettre du 15 octobre. Il est inutile de vous dire tout le plaisir que nous avons éprouvé d’apprendre de vos nouvelles, après en avoir été privés pendant sept mois.
 
 Tant qu’à ma fille et à Solange, il y a plus d’un an que je n’ai eu de leurs nouvelles ; leurs lettres ont été perdues. Votre dernière me rassure sur leur santé.
 
@@ -1169,7 +1169,7 @@ Je vous dirai, sous le secret, que votre père est fâché contre vous de ce que
 
 <br/>
 
-<small>CONTENU DES TROIS CAISSES ENVOYEES PAR LE CAPITAINE W.
+CONTENU DES TROIS CAISSES ENVOYEES PAR LE CAPITAINE W.
 
 |                 |                             |
 |-----------------|-----------------------------|
@@ -1186,7 +1186,7 @@ Je vous dirai, sous le secret, que votre père est fâché contre vous de ce que
 | N°3, contenant  | 4 livres tabac, 1 bouteille, idem, |
 |                 | 6 bouteilles liqueur fortifiante, |
 |                 | 1 sac châtaignes. Je désire que vous les receviez bonnes. |
-</small>
+
 {{</l>}}
 
 {{<l n="145" a="M<sup>me</sup> CHAUVITEAU À SÉRAPHINE" l="Bordeaux, 2 janvier 1815.">}}
