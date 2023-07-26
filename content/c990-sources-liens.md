@@ -38,13 +38,13 @@ La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalo
 
 ## Autres documents
 
-- [Déclarations de mutations, décès de Francis Chauviteau (1891), série 3Q](/docs/Déclaration mutation décès Francis Chauviteau 1891 série 3Q.zip)
+- [Déclarations de mutations, décès de Francis Chauviteau (1891), série 3Q](/docs/D%C3%A9claration%20mutation%20d%C3%A9c%C3%A8s%20Francis%20Chauviteau%201891%20s%C3%A9rie%203Q.zip)
 
-- [Contrat de mariage Fouqueray-Chauviteau (1877-11-22), Me Berthault](/docs/contrat de mariage Fouqueray Chauviteau 1877 11 22 Me Berthault.zip)
+- [Contrat de mariage Fouqueray-Chauviteau (1877-11-22), Me Berthault](/docs/contrat%20de%20mariage%20Fouqueray%20Chauviteau%201877%2011%2022%20Me%20Berthault.zip)
 
-- [Acte notoriété du décès de Francis Chauviteau (1892-03-08), Me Berthault](/docs/Acte notoriété décès Francis Chauviteau 1892 03 08 Me Berthault.zip)
+- [Acte notoriété du décès de Francis Chauviteau (1892-03-08), Me Berthault](/docs/Acte%20notori%C3%A9t%C3%A9%20d%C3%A9c%C3%A8s%20Francis%20Chauviteau%201892%2003%2008%20Me%20Berthault.zip)
 
-- [Coupures de presse sur l’affaire Hector Chauviteau](/docs/Affaire Hector Chauviteau.pdf)
+- [Coupures de presse sur l’affaire Hector Chauviteau](/docs/Affaire%20Hector%20Chauviteau.pdf)
 
 ## Fonds Chauviteau aux Archives départementales de la Gironde
 

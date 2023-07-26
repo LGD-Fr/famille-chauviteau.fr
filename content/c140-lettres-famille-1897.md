@@ -6,7 +6,8 @@ type: docs
 ---
 
 <small class="italic">
-__Notes de l’éditeur du site web :__
+
+**Notes de l’éditeur du site web :**
 
 - Une numérisation de l’ouvrage publié en 1897 est visible sur le site [Gallica (ark:/12148/bpt6k5535096g)](https://gallica.bnf.fr/ark:/12148/bpt6k5535096g/f4.image) (ou au format pdf à [cette adresse](/docs/Lettres_de_famille_retrouvees_en_1897_bpt6k5535096g.pdf)), et une réimpression peut être commandée sur le site [Hachette BnF (EAN: 9782013185523)](http://www.hachettebnf.fr/lettres-de-famille-retrouvees-en-1897-9782013185523).
 - Emmanuel Boëlle a présenté et résumé cet ouvrage dans [l’article de 1989 lisible ici]({{<ref "/c135-article-ghc-lettres-famille.md">}}).
