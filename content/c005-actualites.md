@@ -6,6 +6,20 @@ type: docs
 
 # Actualités
 
+## Les lettres Chauviteau à l’honneur dans la Revue Historique de Bordeaux et Gironde
+
+*2 avril 2024*
+
+<img style="float: left; margin-right: 1em" width="30%" src="/img/actu/2024-04-02/Revue Historique de Bordeaux et du Département de la Gironde 28.jpg" alt="Revue Historique de Bordeaux et du Département de la Gironde 28.jpg" title="Revue Historique de Bordeaux et du Département de la Gironde numéro 28">
+
+Le numéro 28 (troisième série) paru en 2022 de la *Revue Historique de Bordeaux et du Département de la Gironde* publie une sélection de lettres de la famille Chauviteau (lettres n° 164 à 179) dans le cadre d’un article intitulé « Me voilà donc seule dans ce vaste univers. Tourments du veuvage et de la solitude dans la correspondance d’Elisabeth Sophie Bioche, veuve Chauviteau » (pp. 253 à 274). Cette publication est le fruit de la collaboration de deux étudiantes en Mastère 2, Nora Tramut (que nous connaissons bien pour avoir eu comme sujet de mémoire la correspondance Chauviteau) et Adèle Carneiro. Cette dernière a choisi comme sujet de mémoire les veuves de la fin du 18<sup>ème</sup> et du début du 19<sup>ème</sup> à Bordeaux. C’est tout naturellement qu’elle avait rencontré Sophie Bioche, veuve de Joseph Chauviteau en 1816 et qui malheureusement ne lui survivra qu’un an. Nous reviendrons prochainement sur ce sujet.
+
+Merci à elles deux pour cette publication qui contribue à faire connaître ce fonds d’archives familiale, déposé par Emmanuel Boëlle, et qui pourrait faire le bonheur de nombreux chercheurs.
+
+*Jérôme MOREAU*
+
+<hr/>
+
 ## Master 2 sur la correspondance Chauviteau
 
 *24 septembre 2022*

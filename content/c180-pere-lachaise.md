@@ -62,4 +62,6 @@ Ci-dessous, photos prises en novembre 2021 :
 Liens :
 
 - Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html) ;
-- [Inventaire de la tombe au Père Lachaise](/docs/inventaire_tombe_lachaise_2000-10-4.pdf).
+- [Inventaire de la tombe au Père Lachaise](/docs/inventaire_tombe_lachaise_2000-10-4.pdf) ;
+- [« CHAUVITEAU Jean Joseph Albert (1775-1823) » sur le site des Amis et Passionnés du Père Lachaise (APPL)](https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/) ;
+- [« LARSONNIER Stéphane (1814-1870) » sur le site des Amis et Passionnés du Père Lachaise (APPL)](https://www.appl-lachaise.net/larsonnier-stephane-1814-1870/).
