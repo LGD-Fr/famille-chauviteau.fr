@@ -16,3 +16,4 @@ hugo.exe
 # End of https://www.gitignore.io/api/hugo
 *.ps1
 .vscode
+.hugo_build.lock

@@ -6,6 +6,20 @@ type: docs
 
 # Actualités
 
+## La liste des passagers du voyage de retour en France de Salabert (re)découverte !
+
+*23 novembre 2024*
+
+Marie-Thérèse MEISSEL, généalogiste bénévole, nous a très gentiment fait part, en avril dernier, d’une découverte faite au hasard de ses recherches : les traces dans les [Archives départementales de la Seine-Maritime](https://www.archivesdepartementales76.net/ark:/50278/4c0a84c1d3c5443e0a23b0054775aea2/dao/0/675) du voyage de la famille de Salabert CHAUVITEAU partie de La Havane à bord de L’Antigone le 23 avril 1821 et arrivée au Havre le 6 juin de la même année. Nous avons la liste complète des passagers !
+
+À partir de ce document j’ai pu écrire une nouvelle page sur ce site : [Le retour en France de Salabert (1821)]({{<ref "c075-retour-france-salabert.md">}}).
+
+Que Marie-Thérèse MEISSEL soit vivement remerciée pour cette heureuse trouvaille !
+
+*Louis-Guillaume DUBOIS*
+
+<hr/>
+
 ## Les lettres Chauviteau à l’honneur dans la Revue Historique de Bordeaux et Gironde
 
 *2 avril 2024*
@@ -24,7 +38,6 @@ Merci à elles deux pour cette publication qui contribue à faire connaître ce 
 
 *24 septembre 2022*
 
-
 <img style="float: left; margin-right: 1em" width="30%" src="/img/actu/2022-09-24/Tramut.jpg" alt="Tramut.jpg" title="Nora TRAMUT">
 
 Nora Tramut est originaire de Besançon, puis son histoire personnelle la conduit à Avignon et enfin à Bordeaux où elle suit et obtient sa licence d’Histoire, spécialité « Civilisation et Patrimoine ».
@@ -42,6 +55,8 @@ Merci à elle pour ce travail sur notre famille et sur la mise en valeur de ce f
 *PS* : Nora Tramut a soutenu avec succès le 30 juin 2022 son mémoire de Master 2. Toutes nos félicitations !
 
 *Jérôme MOREAU*
+
+*PPS* : une [présentation de ce Master 2](https://comitehistoire.laposte.fr/recherche/la-correspondance-de-la-famille-chauviteau-au-debut-du-xixe-siecle/) est disponible sur le site du Comité pour l’Histoire de la Poste. (*Louis-Guillaume DUBOIS*)
 
 <hr/>
 
