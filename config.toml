@@ -1,34 +1,54 @@
 baseURL = "https://famille-chauviteau.fr"
 languageCode = "fr-FR"
 title = "Histoire de la famille Chauviteau"
-theme = "mybook"
+theme = "hugo-book"
 
 canonifyurls = true
 enableGitInfo = true
 publishDir = "docs"
-
-# Book configuration
+disableKinds = ['taxonomy']
 disablePathToLower = true
 
 [params]
-# show or hide table of contents for page
-BookShowToC = false
-
-# Set bundle to render side menu
-# if not specified file structure and weights will be used
-#BookMenuBundle = "/menu"
-
-# specify section of content to render as menu
-# if bookMenuBundle is not set, 'docs' is value by default
-# BookSection = ""
-
-# BookSourceURL = 'https://github.com/LGD-Fr/famille-chauviteau.site/blob/master/content/'
 BookGitURL = 'https://github.com/LGD-Fr/famille-chauviteau.fr'
-
 ContactEMailFile = "/img/courriel.png"
 ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « fr »"
 RedirectToCanonical = false
 CanonicalBaseURL = "https://famille-chauviteau.fr"
+
+# (Optional, default light) Sets color theme: light, dark or auto.
+# Theme 'auto' switches between dark and light modes based on browser/os preferences
+BookTheme = 'light'
+
+# (Optional, default docs) Specify section of content to render as menu
+# You can also set value to "*" to render all sections to menu
+BookSection = '*'
+
+# (Optional, default true) Controls table of contents visibility on right side of pages.
+# Start and end levels can be controlled with markup.tableOfContents setting.
+# You can also specify this parameter per page in front matter.
+BookToC = true
+
+# (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
+# When set enabled 'Last Modified' and a link to the commit in the footer of the page.
+# Param is executed as template using .Site, .Page and .GitInfo as context.
+BookLastChangeLink = 'https://github.com/LGD-Fr/famille-chauviteau.fr/commit/{{ .GitInfo.Hash }}'
+
+# (Optional, default none) Set template for edit page link.
+# When set enabled 'Edit this page' link in the footer of the page.
+# Param is executed as template using .Site, .Page and .Path as context.
+BookEditLink = 'https://github.com/LGD-Fr/famille-chauviteau.fr/edit/master/{{ path.Clean .Path }}'
+
+# (Optional, default 'January 2, 2006') Configure the date format used on the pages
+# - In git information
+# - In blog posts
+# https://gohugo.io/functions/time/format/
+BookDateFormat = '2 Jan 2006'
+
+# (Optional, default true) Enables search function with flexsearch,
+# Index is built on fly, therefore it might slowdown your website.
+# Configuration for indexing can be adjusted in i18n folder per language.
+BookSearch = true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
