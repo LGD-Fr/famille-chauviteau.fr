@@ -6,6 +6,7 @@ theme = "mybook"
 canonifyurls = true
 enableGitInfo = true
 publishDir = "docs"
+disableKinds = ['taxonomy', 'taxonomyTerm']
 
 # Book configuration
 disablePathToLower = true
