@@ -17,6 +17,8 @@ Les trois aînés (Jean, Louis et Ferdinand) alors en pension aux États-Unis so
 
 {{< figure class="fig intense" src="/img/famchauvaloy2.bmp" alt="Famille Chauviteau-Aloy à La Havane" title="Famille de Salabert CHAUVITEAU à La Havane, vers 1817.">}}
 
+{{<figure class="fig intense" src="/img/2025/Enfants_Chauviteau.jpg" alt="Séraphine (?) et Thomas (?) Chauviteau" title="Séraphine (?) et Thomas (?) Chauviteau">}}
+
 C’est en 1797 que Salabert , âgé de 22 ans, partit des États-Unis pour travailler à Cuba. il rentra dans une maison de commerce appartenant à deux français, originaires du Béarn, les frères Simon et Juan POEY, installés à Cuba depuis plusieurs années, où ils avaient épousé deux sœurs ALOY, d’une famille d’origine espagnole. Travaillait également avec eux Francisco HERNANDEZ, qui épousa une autre sœur ALOY. Salabert réussit si bien qu’il épousa en 1803, une quatrième sœur ALOY, Serafina. ce mariage fut célébré dans la Cathédrale de La Havane.
 
 {{< figure class="fig" src="/img/Ilecuba.jpg" alt="Carte de l’île de Cuba.">}}

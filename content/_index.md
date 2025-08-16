@@ -5,7 +5,7 @@ type: docs
 
 # Histoire de la famille <span style="font-variant: small-caps">Chauviteau</span>
 
-[*Dernière actualité :* **La liste des passagers du voyage de retour en France de Salabert (re)découverte !** (23 novembre 2024)]({{<ref "/c005-actualites.md">}})
+[*Dernière actualité :* **Ajout de nouveaux portraits de famille !** (16 août 2025)]({{<ref "/c005-actualites.md">}})
 
 {{<figure class="fig intense" src="/img/famchauvaloy2.bmp" alt="Famille Chauviteau-Aloy" caption="Ce tableau représente la famille de Salabert CHAUVITEAU (avec sa femme Serafina et une partie de leurs 11 enfants) à La Havane (Cuba), vers 1817, où ils étaient planteurs de café.">}}
 

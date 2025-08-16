@@ -6,6 +6,25 @@ type: docs
 
 # Actualités
 
+## Ajout de nouveaux portraits de famille !
+
+*16 août 2025*
+
+Madame Cécile DESMIERS de LIGOUYER, descendante de Charlotte (Carlota) Chauviteau (1820-1855), nous avait très aimablement communiqué, au début de l’année, de belles photographies de portraits de famille, identifiés, quoique sans grande certitude, à Carlota Chauviteau et à deux jeunes enfants de Salabert et Serafina :
+
+<div class="centered">
+{{<figure class="gal intense" src="/img/2025/Carlota_Chauviteau_1847.jpg" alt="Charlotte (Carlota) Chauviteau (?) — 1847" title="Charlotte (Carlota) Chauviteau (?) — 1847">}}
+{{<figure class="gal intense" src="/img/2025/Enfants_Chauviteau.jpg" alt="Séraphine (?) et Thomas (?) Chauviteau" title="Séraphine (?) et Thomas (?) Chauviteau">}}
+</div>
+
+Le premier portrait enrichit la page des [Souvenirs de Mamita]({{<ref "/c160-souvenirs-mamita.md">}}) et le second celle sur [Salabert à Cuba]({{<ref "/c050-salabert-a-cuba.md">}}).
+
+Je remercie beaucoup Madame Cécile DESMIERS de LIGOUYER pour cette intéressante découverte et d’avoir gentiment accepté la publication de ces clichés !
+
+*Louis-Guillaume DUBOIS*
+
+<hr/>
+
 ## La liste des passagers du voyage de retour en France de Salabert (re)découverte !
 
 *23 novembre 2024*

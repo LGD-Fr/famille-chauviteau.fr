@@ -14,6 +14,6 @@ Bouhier de la davière.
 
 Source: Registre paroissiaux BMS de St Gilles sur Vie.
 
-Texte déposé par Hubert Trichereau sur le site [Aïe, Aïe, Aïe, mes aiëux !!!](http://j.marchal.pagesperso-orange.fr/anecdotes/quot85.html)
+Texte déposé par Hubert Trichereau sur le site [Aïe, Aïe, Aïe, mes aiëux !!! — archive de http://j.marchal.pagesperso-orange.fr/anecdotes/quot85.html](https://archive.is/RTkxh)
 
 ___Le prêtre Chauviteau dont il s'agit est Pierre Jean CHAUVITEAU, né le 4/6/1711 (il fut aussi prêtre à Barbatre-Noirmoutier).___
