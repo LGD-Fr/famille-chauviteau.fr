@@ -6,13 +6,13 @@ type: docs
 
 # Sources et liens sur l’histoire de la famille Chauviteau
 
-## Articles de [la Revue « Généalogie et Histoire de la Caraïbe »](http://www.ghcaraibe.org/bul/sombul.php)
+## Articles de [la Revue « Généalogie et Histoire de la Caraïbe »](https://www.ghcaraibe.org/)
 
 - Emmanuel BOËLLE, [« Les Lettres de la Famille CHAUVITEAU », juillet-août 1989, bulletin n° 7, pp. 52 et ss.]({{<ref "c135-article-ghc-lettres-famille.md">}}) ;
 
 - Emmanuel BOËLLE, [« "Chateau en Espagne" pour la famille CHAUVITEAU, 40 000 hectares en Floride ! », février 1996, bulletin n° 79, pp. 1538 et ss.]({{<ref "c165-article-ghc-hectares-floride.md">}}) ;
 
-- Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](http://www.ghcaraibe.org/bul/ghc089/p1841.html).
+- Nicolas JAVARY, [« Sépultures CHAUVITEAU au Père Lachaise », Généalogie et Histoire de la Caraïbe, janvier 1997, bulletin n° 89, p. 1841](https://www.ghcaraibe.org/bul/ghc089/p1841.html).
 
 ## Un livre sur Moses LEVY, écrit (en anglais) par l’historien américain Chris MONACO.
 
@@ -20,7 +20,7 @@ Moses LEVY se lia d'amitié avec Salabert à Cuba et fréquenta la famille. Il s
 
 Références de l'ouvrage : *Moses Levy Of Florida: Jewish Utopian And Antebellum Reformer*, par C.S. MONACO, décembre 2005, 240 pages.
 
-La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalogie et Histoire de la Caraïbe numéro 190 : Mars 2006*](http://www.ghcaraibe.org/bul/ghc190/som190.html) page 4797, est lisible [à cette adresse](/docs/p4797.pdf).
+La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalogie et Histoire de la Caraïbe numéro 190 : Mars 2006*](https://www.ghcaraibe.org/bul/ghc190/som190.html) page 4797, est lisible [à cette adresse](/docs/p4797.pdf).
 
 ## Lettres de familles et autres mémoires
 
@@ -52,4 +52,4 @@ La note de lecture d'Emmanuel BOËLLE sur cet ouvrage, publiée dans [*Généalo
 
 ## Lien
 
--  [Association « Généalogie et Histoire de la Caraïbe »](http://www.ghcaraibe.org/)
+-  [Association « Généalogie et Histoire de la Caraïbe »](https://www.ghcaraibe.org/)
