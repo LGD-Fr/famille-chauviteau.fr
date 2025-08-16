@@ -6,6 +6,8 @@ type: docs
 
 # Galerie de portraits
 
+{{<figure class="fig" src="/img/2025/Grands-parents_Chauviteau.jpg" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
+
 <div class="centered">
 {{<figure class="gal" src="/img/gal/jean-joseph-chauviteau.jpg" alt="Jean-Joseph Chauviteau" title="Jean-Joseph Chauviteau, dit Salabert (1775-1823)">}}
 {{<figure class="gal" src="/img/gal/bonne-maman-chauviteau.jpg" alt="Serafina Aloy" title="Bonne Maman Chauviteau, née Serafina Aloy (1786-1880)">}}

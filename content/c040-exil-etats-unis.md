@@ -33,6 +33,8 @@ Après le mariage de Sophie, les parents CHAUVITEAU viendront s’installer avec
 
 Ils vont y rester jusqu’en 1805, et rentreront en France, où ils s’installeront dans la région de Bordeaux, laissant leur fille aux États-Unis.
 
+{{<figure class="fig" src="/img/2025/Grands-parents_Chauviteau.jpg" alt="Couple CHAUVITEAU-BIOCHE" title="Joseph CHAUVITEAU (1746-1816) et son épouse Sophie BIOCHE (1752-1817)">}}
+
 Sources :
 
 - [Lettres de famille]({{<ref "/c140-lettres-famille-1897.md">}})
