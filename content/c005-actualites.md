@@ -6,6 +6,22 @@ type: docs
 
 # Actualités
 
+## Ajout du faire-part de décès de Mamita
+
+*20 janvier 2026*
+
+Jérôme MOREAU a trouvé en décembre dernier une image du faire-part de décès de Mamita :
+
+{{<figure class="fig intense" width="1200px" src="/img/2026/Faire-part décès Chauviteau née Marie Serafina Aloy.jpg" alt="Faire-part de décès de Mamita" title="Faire-part de décès de Mamita">}}
+
+Merci et félicitations Jérôme pour cette touchante et intéressante découverte !
+
+Cette image a été ajoutée à la page sur [La famille autour de Mamita]({{<ref "/c090-mamita.md">}}).
+
+*Louis-Guillaume DUBOIS*
+
+<hr/>
+
 ## Ajout de nouveaux portraits de famille !
 
 *16 août 2025*

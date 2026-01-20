@@ -57,6 +57,8 @@ Après son retour à Paris en 1871, Mamita s’installa rue d’Anjou. C’est l
 
 Elle s’éteignit tranquillement en 1880, à 94 ans, laissant derrière elle une famille très nombreuse, qui même actuellement continue à vénérer le souvenir de « Mamita » ou « Bonne Maman ».
 
+{{<figure class="fig intense" width="1200px" src="/img/2026/Faire-part décès Chauviteau née Marie Serafina Aloy.jpg" alt="Faire-part de décès de Mamita" title="Faire-part de décès de Mamita">}}
+
 Dans la descendance de Jean, nous trouvons des ambassadeurs (de MARGERIE, de LA BOULAYE), de grands industriels (de VITRY D’AVAUCOURT).
 
 Parmi les maris des filles, Stéphane LARSONNIER, époux de Louise, et Léon MONNIER, époux de Charlotte, firent partie des grands industriels et hommes d’affaires de l’époque, faisant partie de la meilleure société. Leur descendance comprend des noms connus : RÉCAMIER (lointainement apparentés à Madame Récamier), BONJEAN (de la famille du Président Bonjean, fusillé par les Communards en 1871 comme otage), PASTRÉ (grands armateurs de Marseille).
