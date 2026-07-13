@@ -6,6 +6,25 @@ type: docs
 
 # Actualités
 
+## Découverte d’un portrait de Louise Chauviteau !
+
+*13 juillet 2026*
+
+Madame Agathe PHILIP nous a partagé des photos d’un portrait de Louise CHAUVITEAU (1819-1876) chiné en brocante et restauré par ses soins :
+
+{{<figure class="gal intense" src="/img/2026/Tableau_Louise_Chauviteau_autre.jpeg" alt="Louise CHAUVITEAU peinte par sa sœur Micaële (Micaéla)" title="Louise CHAUVITEAU (1819-1876) peinte par sa sœur Micaële (Micaéla).">}}
+{{<figure class="gal intense" src="/img/2026/Verso_tableau_Louise_Chauviteau.jpeg" alt="Verso du tableau" title="Verso du tableau">}}
+
+Elle nous a autorisé à publier ces émouvantes images. Nous découvrons sur le portrait la signature de sa sœur Micaëla, « une nature essentiellement artiste, aimant la peinture, la musique et les lettres ; \[qui\] avait un vrai talent de miniaturiste. » ([Souvenirs de Mamita]({{<ref "/c160-souvenirs-mamita.md">}}))
+
+{{<figure class="fig intense" src="/img/2026/Tableau_Louise_Chauviteau.jpeg" alt="Louise CHAUVITEAU peinte par sa sœur Micaële (Micaéla)" title="Louise CHAUVITEAU (1819-1876) peinte par sa sœur Micaële (Micaéla).">}}
+
+Ce tableau enrichit la page des [Souvenirs de Mamita]({{<ref "/c160-souvenirs-mamita.md">}}).
+
+Je fais part de ma gratitude à Madame Agathe PHILIP pour ce très beau partage !
+
+*Louis-Guillaume DUBOIS*
+
 ## Ajout du faire-part de décès de Mamita
 
 *20 janvier 2026*

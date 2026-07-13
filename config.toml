@@ -36,3 +36,6 @@ CanonicalBaseURL = "https://famille-chauviteau.fr"
   [markup.goldmark]
       [markup.goldmark.renderer]
         unsafe = true
+
+[security]
+  allowContent = ['.*']
