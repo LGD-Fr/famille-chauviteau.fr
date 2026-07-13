@@ -25,6 +25,8 @@ Je fais part de ma gratitude à Madame Agathe PHILIP pour ce très beau partage�
 
 *Louis-Guillaume DUBOIS*
 
+<hr/>
+
 ## Ajout du faire-part de décès de Mamita
 
 *20 janvier 2026*
