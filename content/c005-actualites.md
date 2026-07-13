@@ -19,6 +19,8 @@ Elle nous a autorisé à publier ces émouvantes images. Nous découvrons sur le
 
 {{<figure class="fig intense" src="/img/2026/Tableau_Louise_Chauviteau.jpeg" alt="Louise CHAUVITEAU peinte par sa sœur Micaële (Micaéla)" title="Louise CHAUVITEAU (1819-1876) peinte par sa sœur Micaële (Micaéla).">}}
 
+« Louise, la seconde, était brune et véritablement belle, elle avait une taille remarquable ; caractère énergique, elle avait sur ses sœurs un grand empire et en était adorée ; avec une tête un peu difficile, elle avait un cœur d’or ; elle aimait à donner et à se donner, et occupait une grande place parmi les siens, par son dévouement. Ses sœurs furent toujours l’objet de ses prédilections, leur union faisait le charme de sa vie et elle eut la douleur de les perdre, jeunes encore. » ([Souvenirs de Mamita]({{<ref "/c160-souvenirs-mamita.md">}}))
+
 Ce tableau enrichit la page des [Souvenirs de Mamita]({{<ref "/c160-souvenirs-mamita.md">}}).
 
 Je fais part de ma gratitude à Madame Agathe PHILIP pour ce très beau partage !
