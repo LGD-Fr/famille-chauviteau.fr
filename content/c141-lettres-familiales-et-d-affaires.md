@@ -643,8 +643,8 @@ Les lettres de la troisième période sont lisibles dans le document ci-dessous�
 |  25 | 8 | 1811 | Philadelphia | L.de Mons d'Orbigny | à Salabert | New York | NC51  |
 |  20 | 11 | 1811 | Portsmouth (U.S.Abbé Matignon |  | à Salabert | Bristol | NC52  |
 |  25 | 11 | 1811 | Boston | Abbé Matignon | Salabert | Bristol | NC53  |
-|  23 | 12 | 1811 | Philadelphia | L.de Mons d'Orbigny | Salabert | Bristol |  | NC54  |
-|  15 | 2 | 1812 | Philadelphia | L.de Mons d'Orbigny | Salabert | Bristol |  | NC55  |
+|  23 | 12 | 1811 | Philadelphia | L.de Mons d'Orbigny | Salabert | Bristol | NC54  |
+|  15 | 2 | 1812 | Philadelphia | L.de Mons d'Orbigny | Salabert | Bristol | NC55  |
 |  31 | 5 | 1812 | Havane | Salabert | J.A Guenet | Bristol c| NC56  |
 |  3 | 6 | 1812 | Havane | Salabert | J.A Guenet | Bristol c | NC57  |
 |  8 | 6 | 1812 | Havane | Salabert | J.A Guenet | Bristol c | an NC58  |
