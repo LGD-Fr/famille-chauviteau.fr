@@ -6,6 +6,17 @@ type: docs
 
 # Actualités
 
+## Nouvelles lettres restrancrites et nouvelle anecdote !
+
+*14 juillet 2026*
+
+Deux documents d’Emmanuel Boëlle ont été numérisés et ajoutés sur le site. Ils comprennent notamment des retranscriptions complètes de lettres, précédées par de riches et intéressants commentaires et d’index des noms cités. Vous pouvez les consulter sur :
+
+- [Une affaire difficile. Le cas du jeune Hernandez, dit Pancho.]({{<ref "/c101-pancho.md">}}).
+- [Lettres familiales et d’affaires 1797-1825]({{<ref "/c141-lettres-familiales-et-d-affaires.md">}}).
+
+Une descendante du Docteur Joseph Récamier (1861-1935) nous a partagé une amusante anecdote de Ferdinand Chauviteau trouvée dans un livre de son aïeul. C’est à lire sur la page des [Anecdotes familiales]({{<ref "/c980-anecdotes-familiales.md">}}) !
+
 ## Découverte d’un portrait de Louise Chauviteau !
 
 *13 juillet 2026*

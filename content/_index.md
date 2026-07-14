@@ -5,7 +5,8 @@ type: docs
 
 # Histoire de la famille <span style="font-variant: small-caps">Chauviteau</span>
 
-[*Dernière actualité :* **Découverte d’un portrait de Louise Chauviteau !** (13 juillet 2026)]({{<ref "/c005-actualites.md">}})
+- [*Dernière actualité :* **Nouvelles lettres restrancrites et nouvelle anecdote !** (14 juillet 2026)]({{<ref "/c005-actualites.md">}})
+- [*Nouveauté :* **Découverte d’un portrait de Louise Chauviteau !** (13 juillet 2026)]({{<ref "/c005-actualites.md">}})
 
 {{<figure class="fig intense" src="/img/famchauvaloy2.bmp" alt="Famille Chauviteau-Aloy" caption="Ce tableau représente la famille de Salabert CHAUVITEAU (avec sa femme Serafina et une partie de leurs 11 enfants) à La Havane (Cuba), vers 1817, où ils étaient planteurs de café.">}}
 
