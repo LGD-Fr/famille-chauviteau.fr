@@ -17,6 +17,8 @@ Deux documents d’Emmanuel Boëlle ont été numérisés et ajoutés sur le sit
 
 Une descendante du Docteur Joseph Récamier (1861-1935) nous a partagé une amusante anecdote de Ferdinand Chauviteau trouvée dans un livre de son aïeul. C’est à lire sur la page des [Anecdotes familiales]({{<ref "/c980-anecdotes-familiales.md">}}) !
 
+<hr/>
+
 ## Découverte d’un portrait de Louise Chauviteau !
 
 *13 juillet 2026*
